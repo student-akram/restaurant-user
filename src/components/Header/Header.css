@@ -1,0 +1,33 @@
+.header{
+    background:#ff6b35;
+    color:white;
+    padding:18px 40px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:100%;
+    box-sizing:border-box;
+}
+
+.logo{
+    color:white;
+    text-decoration:none;
+    font-size:26px;
+    font-weight:bold;
+}
+
+.nav-links{
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+
+.nav-links a{
+    color:white;
+    text-decoration:none;
+}
+
+.nav-links button{
+    padding:8px 15px;
+    cursor:pointer;
+}
